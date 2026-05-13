@@ -6,9 +6,7 @@ The Real Time Last Mile Delivery Failure Prediction and Analytics Platform is an
 This platform analyzes multiple delivery-related parameters such as weather conditions, traffic density, delivery distance, delivery area, and delivery agent information to determine whether a delivery is likely to succeed or fail.
 The project combines Machine Learning, Streamlit, FastAPI, MySQL, Plotly, and Folium to create a modern AI-powered delivery intelligence platform with interactive dashboards, analytics, maps, backend APIs, and downloadable reports.
 
----
-
-* Features
+# Features
 
 *  Real-Time Delivery Failure Prediction
 *  Interactive Analytics Dashboard
@@ -23,7 +21,7 @@ The project combines Machine Learning, Streamlit, FastAPI, MySQL, Plotly, and Fo
 *  Delivery Route Mapping
 *  Failure Probability Monitoring
 
-* Project Structure
+# Project Structure
 
 Real-Time-Last-Mile-Delivery-Failure-Prediction-and-Analytics-Platform/
 │
@@ -55,7 +53,7 @@ Real-Time-Last-Mile-Delivery-Failure-Prediction-and-Analytics-Platform/
 │
 └── README.md
 
-* Dashboard Features
+# Dashboard Features
 
 * Real-Time Prediction
 * Delivery Risk Meter
@@ -69,7 +67,7 @@ Real-Time-Last-Mile-Delivery-Failure-Prediction-and-Analytics-Platform/
 
 ---
 
-* Project Workflow
+# Project Workflow
 
 1. User enters delivery details
 2. Machine Learning model predicts delivery status
@@ -84,8 +82,6 @@ Real-Time-Last-Mile-Delivery-Failure-Prediction-and-Analytics-Platform/
 
 * Adarsh Naikar
 
----
-
-* Conclusion
+# Conclusion
 
 This project demonstrates the integration of Machine Learning, Data Analytics, Interactive Visualization, Backend APIs, Database Management, and Real-Time Monitoring to build a modern intelligent delivery prediction platform capable of improving last mile delivery efficiency and reducing delivery failures.
