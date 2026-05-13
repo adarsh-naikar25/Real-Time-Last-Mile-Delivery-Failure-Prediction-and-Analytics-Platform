@@ -85,3 +85,7 @@ Real-Time-Last-Mile-Delivery-Failure-Prediction-and-Analytics-Platform/
 # Conclusion
 
 This project demonstrates the integration of Machine Learning, Data Analytics, Interactive Visualization, Backend APIs, Database Management, and Real-Time Monitoring to build a modern intelligent delivery prediction platform capable of improving last mile delivery efficiency and reducing delivery failures.
+
+# project images
+<img width="1867" height="852" alt="image" src="https://github.com/user-attachments/assets/50841954-ecf9-43f5-b828-785ceb0f9bd6" />
+
